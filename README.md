@@ -16,7 +16,37 @@ I'm a results-driven **Software Developer / Data Engineer** with hands-on experi
 - 🔹 Actively seeking **Software Engineer / Data Engineer internships & full-time roles**
 
 ---
+## 🛠️ Tech Stack
 
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,go,rust,js,cpp" />
+</p>
+
+### 🌐 Web & API Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,django,flask,fastapi,graphql" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,neo4j" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins" />
+</p>
+
+### 🎨 Frontend & Visualization
+<p>
+  <img src="https://skillicons.dev/icons?i=redux,ts,tailwind,d3" />
+</p>
+
+### 📊 Data & ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
