@@ -53,32 +53,6 @@ I'm a results-driven **Software Developer / Data Engineer** with hands-on experi
 - Deployed cloud solutions on **AWS**, reducing infra costs by 25%
 - Automated CI/CD pipelines using **Docker, Jenkins & Kubernetes**
 
-### **Guru Construction** — *Software Developer*  
-📅 Jan 2024 – Jul 2024  
-- Designed and deployed a responsive business website
-- Improved operational efficiency and reduced delays by 15%
-- Collaborated with stakeholders to optimize business workflows
-
----
-
-## 🚀 Featured Projects
-
-### 🏆 **NMSTA Website Revamp** *(Hackathon – 3rd Place)*
-**Tech:** React, Node.js, PostgreSQL, AWS, Tailwind  
-- Full-stack platform for a non-profit with secure auth & payments  
-- Blockchain-based donations, livestreaming, subscriptions  
-- Role-based dashboards & donor analytics
-
-### ✍️ **BlogVista**
-**Tech:** Java, Spring Boot, React, Redux, JWT  
-- Feature-rich blogging platform with admin & guest roles  
-- Image uploads, categories, authentication & moderation
-
-### 🚗 **Vehicle Parking Monitoring System**
-**Tech:** Python, OpenCV, TensorFlow, FastAPI, Azure  
-- Vehicle counting & license plate detection (68% accuracy)
-- Deployed scalable APIs with Docker & FastAPI
-- Used Neo4j for relationship-based data modeling
 
 ---
 
