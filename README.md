@@ -47,29 +47,6 @@ I'm a results-driven **Software Developer / Data Engineer** with hands-on experi
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 </p>
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-- Python, Java, Go, Rust, JavaScript, C/C++
-
-### 🌐 Web & API Development
-- React, Node.js, Spring Boot, Django, Flask, FastAPI  
-- REST APIs, GraphQL, JWT, OAuth
-
-### 🗄️ Databases
-- PostgreSQL, MySQL  
-- MongoDB, DynamoDB  
-- Neo4j
-
-### ☁️ Cloud & DevOps
-- AWS (EC2, S3, Lambda)  
-- Azure, Google Cloud  
-- Docker, Kubernetes, Jenkins, CI/CD  
-- Serverless & Event-Driven Architectures
-
-### 📊 Data & Visualization
-- TensorFlow, OpenCV  
-- D3.js, Redux, Tailwind CSS
 
 ---
 
